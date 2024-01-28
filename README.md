@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi! I'm Mark, a 10th-grade student from Germany.
+**Hobbies & Interests** : `🥋 Judo & BJJ` `🥊 Kickboxing` `🎹 Piano` `🧮 Math` `🤖 Robotics` `🏎️ Cars`
+
+
 
 <!--
 **Moooooin/Moooooin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
