@@ -1,5 +1,6 @@
 ### Hi! I'm Mark, a 10th-grade student from Germany.
-**Hobbies & Interests** : `🥋 Judo & BJJ` `🥊 Kickboxing` `🎹 Piano` `🧮 Math` `🤖 Robotics` `🏎️ Cars`
+**Interests** : Autonomous Cars / Robotics / ML <br>
+**Hobbies** : `🥋 Judo & BJJ` `🥊 Kickboxing` `🎹 Piano`
 
 
 
